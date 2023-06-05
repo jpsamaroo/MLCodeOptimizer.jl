@@ -1,0 +1,10 @@
+name = "MLCodeOptimizer"
+uuid = "3133a05b-a44b-4f8c-b96f-1741928ab138"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
+
+[compat]
+julia = "1.9"
